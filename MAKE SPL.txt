@@ -1,0 +1,5 @@
+all:
+    g++ CODE\ SPM.cpp -o smart-parking-lot.exe
+
+clean:
+    del smart-
